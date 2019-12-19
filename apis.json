@@ -1,0 +1,61 @@
+{
+    "name": "Sifter API",
+    "description": "A simple bug and issue tracker designed to be easy enough for non-technical team members to help track bugs and issues. Integrates with GitHub, Beanstalk, and Bitbucket.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1151-sifter-api.jpg",
+    "tags": [
+        "bug tracking",
+        "coding",
+        "have api",
+        "programming",
+        "projects",
+        "service",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sifter-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sifter API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1151-sifter-api.jpg",
+            "humanURL": "https:\/\/sifterapp.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sifter-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/example.sifterapp.com\/api\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sifter"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/sifterapp.com\/developer"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/sifterapi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sifterapp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/sifterapp.com"
+        }
+    ]
+}
